@@ -15,6 +15,8 @@ namespace Pertemuan12
         public Form1()
         {
             InitializeComponent();
+
+            this.Text = "Test Change";
         }
     }
 }
