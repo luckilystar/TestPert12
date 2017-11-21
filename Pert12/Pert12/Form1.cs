@@ -12,9 +12,16 @@ namespace Pert12
 {
     public partial class Form1 : Form
     {
+        private int id;
+        
         public Form1()
         {
             InitializeComponent();
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
         }
     }
 }
