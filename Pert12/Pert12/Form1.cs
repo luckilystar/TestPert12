@@ -12,7 +12,7 @@ namespace Pert12
 {
     public partial class Form1 : Form
     {
-        private int id3;
+        public int id3;
         
         public Form1()
         {
