@@ -17,12 +17,14 @@ namespace Pert12
         public int angka;
         public string huruf;
         public string alamat;
-        
-        
-         
-        
-        
-        
+        public string hari;
+        public string tanggal;
+        public string bulan;
+
+
+
+
+
         public Form1()
         {
             InitializeComponent();
@@ -33,6 +35,16 @@ namespace Pert12
         public override string ToString()
         {
             return base.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
