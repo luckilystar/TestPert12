@@ -20,3 +20,7 @@ namespace Pert12
         }
     }
 }
+
+
+
+console.writeline("test 123");
