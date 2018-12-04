@@ -27,7 +27,7 @@ namespace Pert12
 
         public Form1()
         {
-            InitializeComponent();
+           
         }
         
         
