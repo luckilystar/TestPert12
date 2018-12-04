@@ -13,7 +13,7 @@ namespace Pert12
     public partial class Form1 : Form
     {
         public int id3;
-        
+        public int number;
         public Form1()
         {
             InitializeComponent();
