@@ -8,6 +8,8 @@ namespace Pert12
 {
     static class Program
     {
+        
+        console.writeline("asdasdasd");
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
