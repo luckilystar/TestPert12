@@ -16,6 +16,7 @@ namespace Pert12
         public string tes;
         public int angka;
         public string huruf;
+        public string email;
         public string alamat
         
         
