@@ -14,10 +14,15 @@ namespace Pert12
     {
         public int id3;
         public int number;
+        
+        public int angka;
+        
         public Form1()
         {
             InitializeComponent();
         }
+        
+        
 
         public override string ToString()
         {
