@@ -15,6 +15,13 @@ namespace Pert12
         public int id3;
         public string tes;
         public int angka;
+        public string huruf;
+        
+        
+        
+        
+        
+        
         
         public Form1()
         {
