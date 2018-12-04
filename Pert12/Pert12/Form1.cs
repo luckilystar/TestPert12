@@ -12,12 +12,15 @@ namespace Pert12
 {
     public partial class Form1 : Form
     {
-        public int id3;
+        public int inicobacoba;
         public string tes;
         public int angka;
         public string huruf;
-        public string email;
-        public string alamat
+        public string alamat;
+        
+        
+        
+        
         
         
         
