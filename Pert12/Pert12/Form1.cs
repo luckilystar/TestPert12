@@ -17,6 +17,8 @@ namespace Pert12
         public int angka;
         public string huruf;
         
+        public string kalimat;
+        
         
         
         
